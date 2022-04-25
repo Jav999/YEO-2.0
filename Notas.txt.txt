@@ -1,0 +1,7 @@
+agregar un footer
+
+Si el producto es oferta{
+ marcar con rojo o algo 
+}
+
+#e92525 rojo carnes
